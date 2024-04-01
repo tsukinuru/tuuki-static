@@ -1,6 +1,6 @@
 {
   "name": "tuuki-static",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tuuki statci files",
   "main": "index.js",
   "scripts": {
