@@ -1,0 +1,19 @@
+{
+  "name": "tuuki-static",
+  "version": "0.0.1",
+  "description": "tuuki statci files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tsukinuru/tuuki-static.git"
+  },
+  "author": "tuuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsukinuru/tuuki-static/issues"
+  },
+  "homepage": "https://github.com/tsukinuru/tuuki-static#readme"
+}
